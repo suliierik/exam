@@ -1,1 +1,2 @@
 Kedvenc git utasitás
+git leave
